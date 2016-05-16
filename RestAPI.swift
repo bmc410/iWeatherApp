@@ -24,7 +24,7 @@ public class RestAPI{
                             completion(jsonData)
                         case .Failure:
                             break
-                        //completion(String(NSData()))
+                        
             }
         }
     }
